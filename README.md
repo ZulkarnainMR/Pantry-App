@@ -1,9 +1,8 @@
-<img width="763" height="367" alt="Screenshot 2026-07-10 102905" src="https://github.com/user-attachments/assets/ba526058-500f-4d1a-959c-21ef69505bc7" />
-# Pantry App 🛒
+# Pantry App 
 
 A modern, cross-platform mobile application built with **Flutter** and **Firebase** to help users efficiently manage their pantry inventory. This app allows users to keep track of their groceries, monitor stock levels, and receive alerts when items are running low.
 
-## ✨ Features
+## Features
 
 *   **User Authentication:** Secure Login and Registration system using Firebase Authentication.
 *   **Profile Management:** Users can view and update their profile information.
@@ -15,14 +14,14 @@ A modern, cross-platform mobile application built with **Flutter** and **Firebas
 *   **Low Stock Alerts:** Automated local notifications to warn users when an item's stock drops below a certain threshold.
 *   **Real-time Database:** Seamless data synchronization across devices using Firebase Cloud Firestore.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 *   **Frontend:** [Flutter](https://flutter.dev/) & Dart
 *   **Backend / Database:** [Firebase Cloud Firestore](https://firebase.google.com/docs/firestore)
 *   **Authentication:** [Firebase Authentication](https://firebase.google.com/docs/auth)
 *   **Local Notifications:** `flutter_local_notifications` package
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally, follow these steps:
 
@@ -53,8 +52,7 @@ To run this project locally, follow these steps:
    flutter run
    ```
 
-## 📸 Screenshots
-<img width="763" height="367" alt="Screenshot 2026-07-10 102905" src="https://github.com/user-attachments/assets/8f8ed733-914b-464c-bc72-716895bfc70e" />
+## Screenshots
 
 *(You can add your app screenshots here later by dragging and dropping images into this section on GitHub)*
 
