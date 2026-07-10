@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "211511751062",
+    "firebase_url": "https://dbase2-81978-default-rtdb.firebaseio.com",
+    "project_id": "dbase2-81978",
+    "storage_bucket": "dbase2-81978.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211511751062:android:1060106b4b2695d1206db7",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaZqwQFs1pCxGp-PDnElBaWgXk6N5Svc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
