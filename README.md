@@ -1,3 +1,4 @@
+<img width="763" height="367" alt="Screenshot 2026-07-10 102905" src="https://github.com/user-attachments/assets/ba526058-500f-4d1a-959c-21ef69505bc7" />
 # Pantry App 🛒
 
 A modern, cross-platform mobile application built with **Flutter** and **Firebase** to help users efficiently manage their pantry inventory. This app allows users to keep track of their groceries, monitor stock levels, and receive alerts when items are running low.
@@ -53,6 +54,7 @@ To run this project locally, follow these steps:
    ```
 
 ## 📸 Screenshots
+<img width="763" height="367" alt="Screenshot 2026-07-10 102905" src="https://github.com/user-attachments/assets/8f8ed733-914b-464c-bc72-716895bfc70e" />
 
 *(You can add your app screenshots here later by dragging and dropping images into this section on GitHub)*
 
